@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <rect width="400" height="300" fill="#F8F9FA" opacity="0.1"/>
+  
+  <!-- India map silhouette in background -->
+  <path d="M220 60C225 55 230 50 235 55C240 60 245 55 250 60C255 65 260 60 265 65C270 70 275 65 280 70C285 75 290 70 295 75V150C290 145 285 150 280 145C275 140 270 145 265 150C260 155 255 150 250 145C245 140 240 145 235 150C230 155 225 150 220 145V60Z" fill="#059669" opacity="0.1"/>
+  
+  <!-- Enhanced futuristic city skyline -->
+  <rect x="80" y="180" width="20" height="50" fill="#059669" opacity="0.7"/>
+  <rect x="110" y="160" width="15" height="70" fill="#059669" opacity="0.7"/>
+  <rect x="135" y="140" width="25" height="90" fill="#059669" opacity="0.7"/>
+  <rect x="170" y="170" width="20" height="60" fill="#059669" opacity="0.7"/>
+  <rect x="200" y="120" width="30" height="110" fill="#059669" opacity="0.7"/>
+  <rect x="240" y="150" width="25" height="80" fill="#059669" opacity="0.7"/>
+  <rect x="275" y="170" width="15" height="60" fill="#059669" opacity="0.7"/>
+  <rect x="300" y="190" width="20" height="40" fill="#059669" opacity="0.7"/>
+  
+  <!-- Windows on buildings with enhanced lighting -->
+  <rect x="85" y="190" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="85" y="200" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="85" y="210" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  
+  <rect x="115" y="170" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="115" y="180" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="115" y="190" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="115" y="200" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="115" y="210" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  
+  <rect x="145" y="150" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="145" y="160" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="145" y="170" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="145" y="180" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="145" y="190" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="145" y="200" width="5" height="5" fill="#F8F9FA" opacity="0.8"/>
+  
+  <rect x="210" y="130" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="140" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="150" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="160" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="170" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="180" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="190" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  <rect x="210" y="200" width="10" height="5" fill="#F8F9FA" opacity="0.8"/>
+  
+  <!-- Ground with sustainable elements -->
+  <rect x="50" y="230" width="300" height="10" fill="#059669" opacity="0.3"/>
+  <path d="M70 230C70 225 75 220 80 225C85 230 90 225 95 230" fill="none" stroke="#059669" stroke-width="1"/> <!-- plant -->
+  <path d="M320 230C320 225 325 220 330 225C335 230 340 225 345 230" fill="none" stroke="#059669" stroke-width="1"/> <!-- plant -->
+  
+  <!-- Enhanced floating digital elements -->
+  <circle cx="100" cy="100" r="15" fill="#059669" opacity="0.2" stroke="#059669" stroke-width="2"/>
+  <circle cx="150" cy="80" r="10" fill="#059669" opacity="0.2" stroke="#059669" stroke-width="2"/>
+  <circle cx="200" cy="60" r="20" fill="#059669" opacity="0.2" stroke="#059669" stroke-width="2"/>
+  <circle cx="250" cy="80" r="10" fill="#059669" opacity="0.2" stroke="#059669" stroke-width="2"/>
+  <circle cx="300" cy="100" r="15" fill="#059669" opacity="0.2" stroke="#059669" stroke-width="2"/>
+  
+  <!-- Enhanced connection lines -->
+  <line x1="100" y1="100" x2="150" y2="80" stroke="#059669" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="150" y1="80" x2="200" y2="60" stroke="#059669" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="200" y1="60" x2="250" y2="80" stroke="#059669" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="250" y1="80" x2="300" y2="100" stroke="#059669" stroke-width="1" stroke-dasharray="3 3"/>
+  
+  <!-- Digital icons inside circles with security elements -->
+  <rect x="95" y="95" width="10" height="10" rx="2" fill="#059669" opacity="0.7"/>
+  <path d="M97 100H103" stroke="#F8F9FA" stroke-width="1"/> <!-- lock symbol -->
+  <path d="M100 97V103" stroke="#F8F9FA" stroke-width="1"/>
+  
+  <rect x="145" y="75" width="10" height="10" rx="2" fill="#059669" opacity="0.7"/>
+  <circle cx="150" cy="80" r="3" fill="#F8F9FA" opacity="0.8"/> <!-- security scan -->
+  
+  <path d="M190 60H210L200 50L190 60Z" fill="#059669" opacity="0.7"/>
+  <rect x="195" y="60" width="10" height="10" rx="2" fill="#059669" opacity="0.7"/>
+  <path d="M197 65H203" stroke="#F8F9FA" stroke-width="1"/> <!-- shield symbol -->
+  <path d="M200 63V67" stroke="#F8F9FA" stroke-width="1"/>
+  
+  <circle cx="250" cy="80" r="5" fill="#059669" opacity="0.7"/>
+  <path d="M247 80L250 83L253 77" stroke="#F8F9FA" stroke-width="1"/> <!-- checkmark -->
+  
+  <rect x="295" y="95" width="10" height="10" rx="2" fill="#059669" opacity="0.7"/>
+  <circle cx="300" cy="100" r="3" fill="#F8F9FA" opacity="0.8"/> <!-- security scan -->
+  
+  <!-- Binary code background -->
+  <text x="50" y="30" fill="#059669" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="50" y="45" fill="#059669" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <text x="300" y="30" fill="#059669" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="300" y="45" fill="#059669" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <!-- Enhanced future symbol with shield -->
+  <circle cx="200" cy="120" r="25" fill="#059669" opacity="0.2" stroke="#059669" stroke-width="2"/>
+  <path d="M200 100L180 110V130C180 140 190 145 200 150C210 145 220 140 220 130V110L200 100Z" fill="#059669" opacity="0.3" stroke="#059669" stroke-width="1"/>
+  <path d="M190 110L200 100L210 110" stroke="#059669" stroke-width="2"/>
+  <line x1="200" y1="100" x2="200" y2="125" stroke="#059669" stroke-width="2"/>
+  <path d="M190 120H210" stroke="#059669" stroke-width="2"/>
+  
+  <!-- Enhanced rays from future symbol -->
+  <path d="M200 95V85" stroke="#059669" stroke-width="1"/>
+  <path d="M185 105L175 95" stroke="#059669" stroke-width="1"/>
+  <path d="M215 105L225 95" stroke="#059669" stroke-width="1"/>
+  <path d="M180 120L170 120" stroke="#059669" stroke-width="1"/>
+  <path d="M220 120L230 120" stroke="#059669" stroke-width="1"/>
+  
+  <!-- People silhouettes representing generations -->
+  <circle cx="160" cy="250" r="10" fill="#059669" opacity="0.7"/> <!-- adult -->
+  <path d="M150 270C150 260 155 255 160 255C165 255 170 260 170 270" stroke="#059669" stroke-width="2"/>
+  
+  <circle cx="180" cy="255" r="7" fill="#059669" opacity="0.7"/> <!-- child -->
+  <path d="M175 270C175 263 177 260 180 260C183 260 185 263 185 270" stroke="#059669" stroke-width="2"/>
+  
+  <circle cx="200" cy="255" r="5" fill="#059669" opacity="0.7"/> <!-- baby -->
+  <path d="M197 265C197 262 198 260 200 260C202 260 203 262 203 265" stroke="#059669" stroke-width="1.5"/>
+</svg> 

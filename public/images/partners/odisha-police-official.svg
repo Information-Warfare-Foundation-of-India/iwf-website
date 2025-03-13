@@ -1,0 +1,53 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="200" rx="10" fill="#FFFFFF"/>
+  
+  <!-- Logo Elements -->
+  <g transform="translate(200, 100)">
+    <!-- Police Badge -->
+    <path d="M0,-70 L50,-50 L70,0 L50,50 L0,70 L-50,50 L-70,0 L-50,-50 Z" fill="#0F172A"/>
+    <path d="M0,-55 L40,-40 L55,0 L40,40 L0,55 L-40,40 L-55,0 L-40,-40 Z" fill="#1E40AF"/>
+    
+    <!-- Cyber Symbol -->
+    <g fill="#FFFFFF">
+      <circle cx="0" cy="0" r="25"/>
+      <rect x="-4" y="-35" width="8" height="70" rx="4"/>
+      <rect x="-35" y="-4" width="70" height="8" rx="4"/>
+      <circle cx="0" cy="0" r="8" fill="#0F172A"/>
+    </g>
+    
+    <!-- Stars -->
+    <g fill="#FFD700">
+      <path d="M0,-60 L3,-52 L11,-52 L5,-47 L7,-39 L0,-44 L-7,-39 L-5,-47 L-11,-52 L-3,-52 Z"/>
+      <path d="M-60,0 L-52,3 L-52,11 L-47,5 L-39,7 L-44,0 L-39,-7 L-47,-5 L-52,-11 L-52,-3 Z"/>
+      <path d="M0,60 L-3,52 L-11,52 L-5,47 L-7,39 L0,44 L7,39 L5,47 L11,52 L3,52 Z"/>
+      <path d="M60,0 L52,-3 L52,-11 L47,-5 L39,-7 L44,0 L39,7 L47,5 L52,11 L52,3 Z"/>
+    </g>
+    
+    <!-- Glow Effect -->
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#3B82F6" stroke-width="1.5" opacity="0.3"/>
+    
+    <!-- Binary Code (Cyber Element) -->
+    <g fill="#FFFFFF" opacity="0.2" font-family="monospace" font-size="6">
+      <text x="-40" y="-20">10101</text>
+      <text x="20" y="-20">01010</text>
+      <text x="-40" y="25">01010</text>
+      <text x="20" y="25">10101</text>
+    </g>
+  </g>
+  
+  <!-- Text -->
+  <g text-anchor="middle" font-family="Arial, sans-serif">
+    <text x="200" y="35" font-size="22" font-weight="bold" fill="#0F172A">Odisha Police</text>
+    <text x="200" y="180" font-size="18" font-weight="bold" fill="#1E40AF">Cyber Cell</text>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <g opacity="0.1" fill="#3B82F6">
+    <rect x="40" y="80" width="20" height="40" rx="4"/>
+    <rect x="340" y="80" width="20" height="40" rx="4"/>
+  </g>
+  
+  <!-- Tagline -->
+  <text x="200" y="60" font-size="14" fill="#475569" text-anchor="middle" font-family="Arial, sans-serif">Protecting Cyberspace, Serving the Public</text>
+</svg> 

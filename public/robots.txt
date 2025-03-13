@@ -1,0 +1,13 @@
+# Information Warfare Foundation of India (IWF) robots.txt
+# https://iwf.org.in
+
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /dashboard/
+Disallow: /profile/
+Disallow: /auth/
+
+# Sitemap location
+Sitemap: https://iwf.org.in/sitemap.xml 

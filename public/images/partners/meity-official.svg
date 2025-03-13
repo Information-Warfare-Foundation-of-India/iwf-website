@@ -1,0 +1,65 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="200" rx="10" fill="#FFFFFF"/>
+  
+  <!-- Ashoka Emblem -->
+  <g transform="translate(200, 100) scale(1.5)">
+    <!-- Outer Circle -->
+    <circle cx="0" cy="0" r="40" fill="#F1C400"/>
+    
+    <!-- Inner Circle -->
+    <circle cx="0" cy="0" r="35" fill="#FFFFFF"/>
+    
+    <!-- Lion Capital -->
+    <g transform="translate(0, -10) scale(0.7)">
+      <!-- Base -->
+      <rect x="-25" y="20" width="50" height="10" fill="#000080"/>
+      
+      <!-- Pillar -->
+      <rect x="-5" y="-20" width="10" height="40" fill="#000080"/>
+      
+      <!-- Lions (simplified) -->
+      <g fill="#000080">
+        <ellipse cx="-15" cy="-20" rx="10" ry="8"/>
+        <ellipse cx="15" cy="-20" rx="10" ry="8"/>
+        <path d="M-15,-20 C-15,-15 -5,-15 0,-18 C5,-15 15,-15 15,-20" stroke="#000080" stroke-width="2" fill="none"/>
+      </g>
+      
+      <!-- Wheel (Dharma Chakra) -->
+      <circle cx="0" cy="-20" r="7" fill="none" stroke="#000080" stroke-width="2"/>
+      <g stroke="#000080" stroke-width="1">
+        <line x1="0" y1="-27" x2="0" y2="-13"/>
+        <line x1="-7" y1="-20" x2="7" y2="-20"/>
+        <line x1="-5" y1="-25" x2="5" y2="-15"/>
+        <line x1="-5" y1="-15" x2="5" y2="-25"/>
+      </g>
+    </g>
+    
+    <!-- Spokes -->
+    <g stroke="#000080" stroke-width="2">
+      <line x1="0" y1="-35" x2="0" y2="-10" />
+      <line x1="0" y1="10" x2="0" y2="35" />
+      <line x1="-35" y1="0" x2="-10" y2="0" />
+      <line x1="10" y1="0" x2="35" y2="0" />
+      
+      <line x1="-25" y1="-25" x2="-7" y2="-7" />
+      <line x1="7" y1="7" x2="25" y2="25" />
+      <line x1="-25" y1="25" x2="-7" y2="7" />
+      <line x1="7" y1="-7" x2="25" y2="-25" />
+    </g>
+    
+    <!-- Satyameva Jayate Text (simplified) -->
+    <path d="M0,25 C2,25 5,24 5,22 C5,20 2,19 0,19 C-2,19 -5,20 -5,22 C-5,24 -2,25 0,25 Z" fill="#000080"/>
+  </g>
+  
+  <!-- Ministry Text -->
+  <g text-anchor="middle" font-family="Arial, sans-serif">
+    <text x="200" y="30" font-size="18" font-weight="bold" fill="#000080">Ministry of Electronics</text>
+    <text x="200" y="55" font-size="18" font-weight="bold" fill="#000080">and Information Technology</text>
+    <text x="200" y="80" font-size="14" fill="#000080">Government of India</text>
+    
+    <!-- Hindi Text (simplified) -->
+    <text x="200" y="170" font-size="16" font-weight="bold" fill="#000080">इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय</text>
+    <text x="200" y="190" font-size="14" fill="#000080">भारत सरकार</text>
+  </g>
+</svg> 

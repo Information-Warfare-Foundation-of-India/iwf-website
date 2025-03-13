@@ -1,0 +1,45 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="100" rx="10" fill="#FFFFFF"/>
+  
+  <!-- Logo Elements -->
+  <g transform="translate(100, 50)">
+    <!-- Freedom Symbol -->
+    <circle cx="0" cy="0" r="35" fill="#7C3AED"/>
+    <circle cx="0" cy="0" r="32" fill="#8B5CF6" opacity="0.9"/>
+    
+    <!-- Internet/Network Symbol -->
+    <g stroke="#FFFFFF" stroke-width="2.5">
+      <circle cx="0" cy="0" r="18" fill="none"/>
+      <ellipse cx="0" cy="0" rx="25" ry="10" fill="none"/>
+      <ellipse cx="0" cy="0" rx="25" ry="10" fill="none" transform="rotate(60)"/>
+      <ellipse cx="0" cy="0" rx="25" ry="10" fill="none" transform="rotate(120)"/>
+    </g>
+    
+    <!-- Freedom Bird -->
+    <path d="M-6,-6 C-3,-12 0,-10 6,-6 L0,6 Z" fill="#FFFFFF"/>
+    <circle cx="4" cy="-8" r="2" fill="#FFFFFF"/>
+    
+    <!-- Glow Effect -->
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.3"/>
+  </g>
+  
+  <!-- Text -->
+  <g text-anchor="middle" font-family="Arial, sans-serif">
+    <text x="100" y="15" font-size="14" font-weight="bold" fill="#7C3AED">Internet Freedom</text>
+    <text x="100" y="95" font-size="14" font-weight="bold" fill="#7C3AED">Foundation</text>
+  </g>
+  
+  <!-- Abbreviation -->
+  <g text-anchor="middle" font-family="Arial, sans-serif">
+    <text x="100" y="50" font-size="22" font-weight="bold" fill="#FFFFFF">IFF</text>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <g opacity="0.1" fill="#7C3AED">
+    <circle cx="30" cy="30" r="5"/>
+    <circle cx="170" cy="30" r="5"/>
+    <circle cx="30" cy="70" r="5"/>
+    <circle cx="170" cy="70" r="5"/>
+  </g>
+</svg> 

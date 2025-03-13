@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <rect width="400" height="300" fill="#F8F9FA" opacity="0.1"/>
+  
+  <!-- Open book -->
+  <path d="M120 150C120 120 160 110 200 110C240 110 280 120 280 150V220C280 190 240 180 200 180C160 180 120 190 120 220V150Z" fill="#F97316" opacity="0.2" stroke="#F97316" stroke-width="2"/>
+  <path d="M120 150C120 120 160 110 200 110V180C160 180 120 190 120 220V150Z" fill="#F97316" opacity="0.3"/>
+  <path d="M280 150C280 120 240 110 200 110V180C240 180 280 190 280 220V150Z" fill="#F97316" opacity="0.4"/>
+  
+  <!-- Digital elements on book pages -->
+  <rect x="140" y="130" width="40" height="5" rx="2" fill="#F97316" opacity="0.7"/>
+  <rect x="140" y="140" width="30" height="5" rx="2" fill="#F97316" opacity="0.7"/>
+  <rect x="140" y="150" width="35" height="5" rx="2" fill="#F97316" opacity="0.7"/>
+  
+  <rect x="220" y="130" width="40" height="5" rx="2" fill="#F97316" opacity="0.7"/>
+  <rect x="220" y="140" width="30" height="5" rx="2" fill="#F97316" opacity="0.7"/>
+  <rect x="220" y="150" width="35" height="5" rx="2" fill="#F97316" opacity="0.7"/>
+  
+  <!-- Digital devices -->
+  <rect x="80" y="80" width="60" height="40" rx="5" fill="#F97316" opacity="0.6"/>
+  <rect x="85" y="85" width="50" height="25" fill="#F8F9FA"/>
+  <rect x="95" y="115" width="30" height="5" rx="2" fill="#F97316" opacity="0.8"/>
+  
+  <rect x="260" y="80" width="30" height="50" rx="5" fill="#F97316" opacity="0.6"/>
+  <rect x="265" y="85" width="20" height="35" fill="#F8F9FA"/>
+  <circle cx="275" cy="125" r="3" fill="#F97316" opacity="0.8"/>
+  
+  <!-- People silhouettes -->
+  <circle cx="100" cy="200" r="15" fill="#F97316" opacity="0.7"/>
+  <path d="M80 230C80 215 90 210 100 210C110 210 120 215 120 230" stroke="#F97316" stroke-width="3"/>
+  
+  <circle cx="300" cy="200" r="15" fill="#F97316" opacity="0.7"/>
+  <path d="M280 230C280 215 290 210 300 210C310 210 320 215 320 230" stroke="#F97316" stroke-width="3"/>
+  
+  <!-- Connection lines -->
+  <path d="M120 200H280" stroke="#F97316" stroke-width="2" stroke-dasharray="5 5"/>
+  
+  <!-- Binary code background -->
+  <text x="50" y="50" fill="#F97316" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="50" y="65" fill="#F97316" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <text x="300" y="50" fill="#F97316" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="300" y="65" fill="#F97316" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <!-- Lightbulb (knowledge) symbol -->
+  <circle cx="200" cy="70" r="15" fill="#F97316" opacity="0.6"/>
+  <path d="M200 85V95" stroke="#F97316" stroke-width="3"/>
+  <path d="M190 90H210" stroke="#F97316" stroke-width="2"/>
+  <path d="M193 95H207" stroke="#F97316" stroke-width="2"/>
+  
+  <!-- Rays from lightbulb -->
+  <path d="M200 50V40" stroke="#F97316" stroke-width="2"/>
+  <path d="M180 60L170 50" stroke="#F97316" stroke-width="2"/>
+  <path d="M220 60L230 50" stroke="#F97316" stroke-width="2"/>
+  <path d="M175 80L165 85" stroke="#F97316" stroke-width="2"/>
+  <path d="M225 80L235 85" stroke="#F97316" stroke-width="2"/>
+</svg> 

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <rect width="400" height="300" fill="#F8F9FA" opacity="0.1"/>
+  
+  <!-- Capitol/Parliament building -->
+  <rect x="150" y="120" width="100" height="100" fill="#8B5CF6" opacity="0.7"/>
+  <path d="M140 120H260L200 80L140 120Z" fill="#8B5CF6" opacity="0.9"/>
+  
+  <!-- Columns -->
+  <rect x="155" y="130" width="10" height="90" fill="#F8F9FA"/>
+  <rect x="175" y="130" width="10" height="90" fill="#F8F9FA"/>
+  <rect x="195" y="130" width="10" height="90" fill="#F8F9FA"/>
+  <rect x="215" y="130" width="10" height="90" fill="#F8F9FA"/>
+  <rect x="235" y="130" width="10" height="90" fill="#F8F9FA"/>
+  
+  <!-- Base -->
+  <rect x="140" y="220" width="120" height="10" fill="#8B5CF6"/>
+  
+  <!-- Digital elements -->
+  <circle cx="100" cy="150" r="30" fill="#A78BFA" opacity="0.7"/>
+  <path d="M85 150L95 160L115 140" stroke="white" stroke-width="3"/>
+  
+  <!-- Shield -->
+  <path d="M300 150C300 130 290 120 280 115C290 110 300 100 300 80C300 100 310 110 320 115C310 120 300 130 300 150Z" fill="#A78BFA" opacity="0.8"/>
+  
+  <!-- Binary code background -->
+  <text x="50" y="50" fill="#A78BFA" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="50" y="65" fill="#A78BFA" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  <text x="50" y="80" fill="#A78BFA" opacity="0.3" font-family="monospace" font-size="10">11010010</text>
+  
+  <text x="300" y="200" fill="#A78BFA" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="300" y="215" fill="#A78BFA" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  <text x="300" y="230" fill="#A78BFA" opacity="0.3" font-family="monospace" font-size="10">11010010</text>
+  
+  <!-- Connected nodes representing information network -->
+  <circle cx="80" cy="80" r="5" fill="#A78BFA"/>
+  <circle cx="120" cy="60" r="5" fill="#A78BFA"/>
+  <circle cx="150" cy="40" r="5" fill="#A78BFA"/>
+  <circle cx="180" cy="60" r="5" fill="#A78BFA"/>
+  <circle cx="220" cy="50" r="5" fill="#A78BFA"/>
+  <circle cx="260" cy="70" r="5" fill="#A78BFA"/>
+  <circle cx="300" cy="40" r="5" fill="#A78BFA"/>
+  
+  <line x1="80" y1="80" x2="120" y2="60" stroke="#A78BFA" opacity="0.5"/>
+  <line x1="120" y1="60" x2="150" y2="40" stroke="#A78BFA" opacity="0.5"/>
+  <line x1="150" y1="40" x2="180" y2="60" stroke="#A78BFA" opacity="0.5"/>
+  <line x1="180" y1="60" x2="220" y2="50" stroke="#A78BFA" opacity="0.5"/>
+  <line x1="220" y1="50" x2="260" y2="70" stroke="#A78BFA" opacity="0.5"/>
+  <line x1="260" y1="70" x2="300" y2="40" stroke="#A78BFA" opacity="0.5"/>
+</svg> 

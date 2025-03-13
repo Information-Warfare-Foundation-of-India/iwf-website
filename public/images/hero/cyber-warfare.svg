@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <rect width="400" height="300" fill="#F8F9FA" opacity="0.1"/>
+  
+  <!-- World map outline with more detail -->
+  <path d="M100 120C110 110 130 115 140 120C150 125 160 115 170 120C180 125 190 120 200 125C210 130 220 125 230 120C240 115 250 120 260 125C270 130 280 125 290 120C300 115 310 120 320 125C330 130 340 125 350 120V180C340 175 330 180 320 175C310 170 300 175 290 180C280 185 270 180 260 175C250 170 240 175 230 180C220 185 210 180 200 175C190 170 180 175 170 180C160 185 150 180 140 175C130 170 120 175 110 180C100 185 90 180 80 175V125C85 120 90 125 100 120Z" fill="#64748B" opacity="0.2"/>
+  
+  <!-- India outline -->
+  <path d="M220 130C225 125 230 120 235 125C240 130 245 125 250 130C255 135 260 130 265 135C270 140 275 135 280 140V170C275 165 270 170 265 165C260 160 255 165 250 170C245 175 240 170 235 165C230 160 225 165 220 170V130Z" fill="#64748B" opacity="0.3"/>
+  
+  <!-- Enhanced shield with counter-attack elements -->
+  <path d="M200 70L140 90V150C140 180 170 200 200 210C230 200 260 180 260 150V90L200 70Z" fill="#64748B" opacity="0.2" stroke="#64748B" stroke-width="2"/>
+  
+  <!-- Digital attack lines with counter-measures -->
+  <path d="M120 100L150 120" stroke="#64748B" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M280 100L250 120" stroke="#64748B" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M100 150L150 140" stroke="#64748B" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M300 150L250 140" stroke="#64748B" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M120 200L150 180" stroke="#64748B" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M280 200L250 180" stroke="#64748B" stroke-width="2" stroke-dasharray="5 5"/>
+  
+  <!-- Counter-attack lines -->
+  <path d="M150 125L120 105" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M250 125L280 105" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M150 145L100 155" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M250 145L300 155" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M150 185L120 205" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M250 185L280 205" stroke="#94A3B8" stroke-width="2"/>
+  
+  <!-- Attack source nodes -->
+  <circle cx="120" cy="100" r="8" fill="#64748B" opacity="0.7"/>
+  <circle cx="280" cy="100" r="8" fill="#64748B" opacity="0.7"/>
+  <circle cx="100" cy="150" r="8" fill="#64748B" opacity="0.7"/>
+  <circle cx="300" cy="150" r="8" fill="#64748B" opacity="0.7"/>
+  <circle cx="120" cy="200" r="8" fill="#64748B" opacity="0.7"/>
+  <circle cx="280" cy="200" r="8" fill="#64748B" opacity="0.7"/>
+  
+  <!-- Defense nodes -->
+  <circle cx="120" cy="105" r="3" fill="#F8F9FA"/>
+  <circle cx="280" cy="105" r="3" fill="#F8F9FA"/>
+  <circle cx="100" cy="155" r="3" fill="#F8F9FA"/>
+  <circle cx="300" cy="155" r="3" fill="#F8F9FA"/>
+  <circle cx="120" cy="205" r="3" fill="#F8F9FA"/>
+  <circle cx="280" cy="205" r="3" fill="#F8F9FA"/>
+  
+  <!-- Enhanced lock symbol inside shield -->
+  <rect x="185" y="140" width="30" height="25" rx="5" fill="#64748B" opacity="0.7"/>
+  <rect x="190" y="130" width="20" height="15" rx="10" fill="#64748B" opacity="0.7"/>
+  <circle cx="200" cy="150" r="3" fill="#F8F9FA"/>
+  <line x1="200" y1="150" x2="200" y2="155" stroke="#F8F9FA" stroke-width="2"/>
+  
+  <!-- Firewall symbol -->
+  <rect x="175" y="110" width="50" height="10" rx="2" fill="#94A3B8" opacity="0.6"/>
+  <rect x="180" y="115" width="5" height="5" fill="#F8F9FA"/>
+  <rect x="190" y="115" width="5" height="5" fill="#F8F9FA"/>
+  <rect x="200" y="115" width="5" height="5" fill="#F8F9FA"/>
+  <rect x="210" y="115" width="5" height="5" fill="#F8F9FA"/>
+  <rect x="220" y="115" width="5" height="5" fill="#F8F9FA"/>
+  
+  <!-- Binary code background -->
+  <text x="50" y="50" fill="#64748B" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="50" y="65" fill="#64748B" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <text x="300" y="50" fill="#64748B" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="300" y="65" fill="#64748B" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <!-- Alert symbols -->
+  <path d="M100 240L110 260H90L100 240Z" fill="#64748B"/>
+  <circle cx="100" cy="255" r="1" fill="white"/>
+  <line x1="100" y1="245" x2="100" y2="252" stroke="white" stroke-width="1"/>
+  
+  <path d="M300 240L310 260H290L300 240Z" fill="#64748B"/>
+  <circle cx="300" cy="255" r="1" fill="white"/>
+  <line x1="300" y1="245" x2="300" y2="252" stroke="white" stroke-width="1"/>
+  
+  <!-- Server/infrastructure elements -->
+  <rect x="70" y="170" width="20" height="30" fill="#64748B" opacity="0.6"/>
+  <rect x="75" y="175" width="10" height="5" fill="#F8F9FA"/>
+  <rect x="75" y="185" width="10" height="5" fill="#F8F9FA"/>
+  
+  <rect x="310" y="170" width="20" height="30" fill="#64748B" opacity="0.6"/>
+  <rect x="315" y="175" width="10" height="5" fill="#F8F9FA"/>
+  <rect x="315" y="185" width="10" height="5" fill="#F8F9FA"/>
+  
+  <!-- Enhanced network nodes inside shield -->
+  <circle cx="180" cy="130" r="5" fill="#94A3B8"/>
+  <circle cx="220" cy="130" r="5" fill="#94A3B8"/>
+  <circle cx="180" cy="170" r="5" fill="#94A3B8"/>
+  <circle cx="220" cy="170" r="5" fill="#94A3B8"/>
+  
+  <line x1="180" y1="130" x2="220" y2="130" stroke="#94A3B8" stroke-width="1"/>
+  <line x1="180" y1="130" x2="180" y2="170" stroke="#94A3B8" stroke-width="1"/>
+  <line x1="220" y1="130" x2="220" y2="170" stroke="#94A3B8" stroke-width="1"/>
+  <line x1="180" y1="170" x2="220" y2="170" stroke="#94A3B8" stroke-width="1"/>
+  <line x1="180" y1="130" x2="220" y2="170" stroke="#94A3B8" stroke-width="1"/>
+  <line x1="220" y1="130" x2="180" y2="170" stroke="#94A3B8" stroke-width="1"/>
+</svg> 

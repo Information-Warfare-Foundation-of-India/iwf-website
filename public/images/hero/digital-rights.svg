@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements -->
+  <rect width="400" height="300" fill="#F8F9FA" opacity="0.1"/>
+  
+  <!-- Scales of justice -->
+  <line x1="200" y1="80" x2="200" y2="180" stroke="#4F46E5" stroke-width="3"/>
+  <path d="M180 90H220" stroke="#4F46E5" stroke-width="3"/>
+  
+  <!-- Scale pans -->
+  <circle cx="150" cy="130" r="20" fill="#4F46E5" opacity="0.2" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="250" cy="130" r="20" fill="#4F46E5" opacity="0.2" stroke="#4F46E5" stroke-width="2"/>
+  
+  <!-- Scale chains -->
+  <line x1="180" y1="90" x2="150" y2="130" stroke="#4F46E5" stroke-width="2" stroke-dasharray="2 2"/>
+  <line x1="220" y1="90" x2="250" y2="130" stroke="#4F46E5" stroke-width="2" stroke-dasharray="2 2"/>
+  
+  <!-- Digital elements on scales -->
+  <rect x="140" y="125" width="20" height="10" rx="2" fill="#4F46E5" opacity="0.7"/>
+  <rect x="240" y="125" width="20" height="10" rx="2" fill="#4F46E5" opacity="0.7"/>
+  
+  <!-- Document with rights -->
+  <rect x="170" y="180" width="60" height="80" fill="#F8F9FA" stroke="#4F46E5" stroke-width="2"/>
+  <rect x="180" y="190" width="40" height="5" rx="2" fill="#4F46E5" opacity="0.7"/>
+  <rect x="180" y="200" width="30" height="5" rx="2" fill="#4F46E5" opacity="0.7"/>
+  <rect x="180" y="210" width="35" height="5" rx="2" fill="#4F46E5" opacity="0.7"/>
+  <rect x="180" y="220" width="25" height="5" rx="2" fill="#4F46E5" opacity="0.7"/>
+  <rect x="180" y="230" width="40" height="5" rx="2" fill="#4F46E5" opacity="0.7"/>
+  <rect x="180" y="240" width="30" height="5" rx="2" fill="#4F46E5" opacity="0.7"/>
+  
+  <!-- Digital devices -->
+  <rect x="80" y="100" width="40" height="30" rx="5" fill="#4F46E5" opacity="0.6"/>
+  <rect x="85" y="105" width="30" height="20" fill="#F8F9FA"/>
+  
+  <rect x="280" y="100" width="40" height="30" rx="5" fill="#4F46E5" opacity="0.6"/>
+  <rect x="285" y="105" width="30" height="20" fill="#F8F9FA"/>
+  
+  <!-- People silhouettes -->
+  <circle cx="100" cy="200" r="15" fill="#4F46E5" opacity="0.7"/>
+  <path d="M80 230C80 215 90 210 100 210C110 210 120 215 120 230" stroke="#4F46E5" stroke-width="3"/>
+  
+  <circle cx="300" cy="200" r="15" fill="#4F46E5" opacity="0.7"/>
+  <path d="M280 230C280 215 290 210 300 210C310 210 320 215 320 230" stroke="#4F46E5" stroke-width="3"/>
+  
+  <!-- Connection lines -->
+  <path d="M120 200H170" stroke="#4F46E5" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M230 200H280" stroke="#4F46E5" stroke-width="2" stroke-dasharray="5 5"/>
+  
+  <!-- Binary code background -->
+  <text x="50" y="50" fill="#4F46E5" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="50" y="65" fill="#4F46E5" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <text x="300" y="50" fill="#4F46E5" opacity="0.3" font-family="monospace" font-size="10">10110101</text>
+  <text x="300" y="65" fill="#4F46E5" opacity="0.3" font-family="monospace" font-size="10">01001010</text>
+  
+  <!-- Privacy symbols -->
+  <circle cx="80" cy="160" r="15" fill="none" stroke="#4F46E5" stroke-width="2"/>
+  <path d="M75 160L80 165L85 155" stroke="#4F46E5" stroke-width="2"/>
+  
+  <circle cx="320" cy="160" r="15" fill="none" stroke="#4F46E5" stroke-width="2"/>
+  <path d="M315 160L320 165L325 155" stroke="#4F46E5" stroke-width="2"/>
+  
+  <!-- Base for scales -->
+  <rect x="185" y="180" width="30" height="10" rx="2" fill="#4F46E5" opacity="0.7"/>
+</svg> 

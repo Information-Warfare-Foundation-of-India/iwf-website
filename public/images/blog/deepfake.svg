@@ -1,0 +1,99 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bgGradient)"/>
+  
+  <!-- Grid Pattern -->
+  <g stroke="#FFFFFF" stroke-width="0.5" opacity="0.1">
+    <defs>
+      <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor"/>
+      </pattern>
+    </defs>
+    <rect width="800" height="450" fill="url(#grid)"/>
+  </g>
+  
+  <!-- Main Content -->
+  <g transform="translate(400, 225)">
+    <!-- Face Outlines -->
+    <!-- Original Face -->
+    <g transform="translate(-150, 0)">
+      <ellipse cx="0" cy="0" rx="100" ry="120" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.7"/>
+      
+      <!-- Face Features -->
+      <ellipse cx="-30" cy="-40" rx="15" ry="10" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.7"/>
+      <ellipse cx="30" cy="-40" rx="15" ry="10" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.7"/>
+      <path d="M-30,20 C-10,40 10,40 30,20" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.7"/>
+      
+      <!-- Binary Data Overlay -->
+      <g opacity="0.4" fill="#FFFFFF" font-family="monospace" font-size="8">
+        <text x="-50" y="-80">10101010</text>
+        <text x="-50" y="-70">01010101</text>
+        <text x="-50" y="-60">10101010</text>
+        <text x="-50" y="-50">01010101</text>
+        <text x="-50" y="-40">10101010</text>
+        <text x="-50" y="-30">01010101</text>
+        <text x="-50" y="-20">10101010</text>
+        <text x="-50" y="-10">01010101</text>
+        <text x="-50" y="0">10101010</text>
+        <text x="-50" y="10">01010101</text>
+        <text x="-50" y="20">10101010</text>
+        <text x="-50" y="30">01010101</text>
+        <text x="-50" y="40">10101010</text>
+        <text x="-50" y="50">01010101</text>
+        <text x="-50" y="60">10101010</text>
+        <text x="-50" y="70">01010101</text>
+      </g>
+    </g>
+    
+    <!-- Fake/Generated Face -->
+    <g transform="translate(150, 0)">
+      <ellipse cx="0" cy="0" rx="100" ry="120" fill="none" stroke="#F59E0B" stroke-width="3" opacity="0.7"/>
+      
+      <!-- Face Features -->
+      <ellipse cx="-30" cy="-40" rx="15" ry="10" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.7"/>
+      <ellipse cx="30" cy="-40" rx="15" ry="10" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.7"/>
+      <path d="M-30,20 C-10,40 10,40 30,20" fill="none" stroke="#F59E0B" stroke-width="2" opacity="0.7"/>
+      
+      <!-- Glitch Effect -->
+      <g opacity="0.7">
+        <path d="M-70,-50 L-60,-50 L-60,-40 L-70,-40 Z" fill="#F59E0B"/>
+        <path d="M50,-20 L70,-20 L70,-10 L50,-10 Z" fill="#F59E0B"/>
+        <path d="M-20,60 L0,60 L0,70 L-20,70 Z" fill="#F59E0B"/>
+        <path d="M30,40 L50,40 L50,50 L30,50 Z" fill="#F59E0B"/>
+      </g>
+    </g>
+    
+    <!-- Connection Between Faces -->
+    <g>
+      <!-- Connection Lines -->
+      <line x1="-50" y1="-60" x2="50" y2="-60" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+      <line x1="-50" y1="0" x2="50" y2="0" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+      <line x1="-50" y1="60" x2="50" y2="60" stroke="#FFFFFF" stroke-width="2" opacity="0.5"/>
+      
+      <!-- AI Processing Nodes -->
+      <circle cx="0" cy="-60" r="10" fill="#F59E0B" opacity="0.8"/>
+      <circle cx="0" cy="0" r="10" fill="#F59E0B" opacity="0.8"/>
+      <circle cx="0" cy="60" r="10" fill="#F59E0B" opacity="0.8"/>
+    </g>
+  </g>
+  
+  <!-- Title -->
+  <g text-anchor="middle" fill="#FFFFFF">
+    <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold">The Rising Threat of Deepfakes</text>
+    <text x="400" y="80" font-family="Arial, sans-serif" font-size="16" opacity="0.8">AI-generated fake videos influencing public opinion</text>
+  </g>
+  
+  <!-- Warning Symbol -->
+  <g transform="translate(400, 400)">
+    <path d="M0,-30 L30,30 L-30,30 Z" fill="none" stroke="#F59E0B" stroke-width="3"/>
+    <text x="0" y="15" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#F59E0B" text-anchor="middle">!</text>
+  </g>
+</svg> 

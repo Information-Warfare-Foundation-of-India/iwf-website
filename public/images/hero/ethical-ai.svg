@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background elements with India flag colors -->
+  <rect width="400" height="300" fill="#F8F9FA" opacity="0.1"/>
+  <path d="M0 0H400V100H0V0Z" fill="#FF9933" opacity="0.05"/>
+  <path d="M0 100H400V200H0V100Z" fill="#FFFFFF" opacity="0.05"/>
+  <path d="M0 200H400V300H0V200Z" fill="#138808" opacity="0.05"/>
+  
+  <!-- India map silhouette with animation -->
+  <path d="M320 80C325 75 330 70 335 75C340 80 345 75 350 80C355 85 360 80 365 85C370 90 375 85 380 90V170C375 165 370 170 365 165C360 160 355 165 350 170C345 175 340 170 335 165C330 160 325 165 320 170V80Z" fill="#0E7490" opacity="0.1">
+    <animate attributeName="opacity" values="0.1;0.2;0.1" dur="5s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Ashoka Chakra (simplified) -->
+  <circle cx="350" cy="120" r="12" fill="#000080" opacity="0.2"/>
+  <circle cx="350" cy="120" r="10" stroke="#000080" stroke-width="1" fill="none">
+    <animate attributeName="r" values="10;11;10" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M350 110L350 130" stroke="#000080" stroke-width="1"/>
+  <path d="M340 120L360 120" stroke="#000080" stroke-width="1"/>
+  <path d="M343 113L357 127" stroke="#000080" stroke-width="1"/>
+  <path d="M343 127L357 113" stroke="#000080" stroke-width="1"/>
+  
+  <!-- Enhanced brain outline with circuit patterns and animation -->
+  <path d="M200 60C160 60 130 90 130 130C130 150 140 170 160 180C150 190 145 200 145 210C145 230 160 245 180 245H220C240 245 255 230 255 210C255 200 250 190 240 180C260 170 270 150 270 130C270 90 240 60 200 60Z" fill="#0E7490" opacity="0.2" stroke="#0E7490" stroke-width="2">
+    <animate attributeName="opacity" values="0.2;0.3;0.2" dur="5s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Ethical guidelines overlay with animation -->
+  <path d="M200 70C165 70 140 95 140 130C140 147 148 164 165 173C156 181 152 190 152 198C152 215 165 228 182 228H218C235 228 248 215 248 198C248 190 244 181 235 173C252 164 260 147 260 130C260 95 235 70 200 70Z" fill="#06B6D4" opacity="0.1" stroke="#06B6D4" stroke-width="1" stroke-dasharray="4 2">
+    <animate attributeName="stroke-dasharray" values="4 2;6 2;4 2" dur="6s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Circuit lines with animation -->
+  <path d="M160 120H240" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M150 150H250" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M160 180H240" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path d="M180 210H220" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  
+  <path d="M180 120V210" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M200 90V245" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M220 120V210" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="4.2s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Circuit nodes with animation -->
+  <circle cx="180" cy="120" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="120" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="120" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="180" cy="150" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="150" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="150" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="180" cy="180" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="180" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="180" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3.3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="180" cy="210" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="210" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="210" r="5" fill="#06B6D4">
+    <animate attributeName="r" values="5;6;5" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Human figures with activities -->
+  <!-- AI Researcher with traditional Indian attire -->
+  <circle cx="120" cy="100" r="15" fill="#0E7490" opacity="0.7"/>
+  <path d="M100 130C100 115 110 110 120 110C130 110 140 115 140 130" stroke="#0E7490" stroke-width="3"/>
+  <!-- Traditional kurta collar -->
+  <path d="M115 110L125 110" stroke="#0E7490" stroke-width="1.5"/>
+  <path d="M120 110L120 115" stroke="#0E7490" stroke-width="1.5"/>
+  <!-- Document/research paper with animation -->
+  <rect x="95" cy="85" width="15" height="20" fill="#F8F9FA" opacity="0.8"/>
+  <path d="M100 90L105 90" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="stroke-width" values="1;1.5;1" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M100 95L105 95" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="stroke-width" values="1;1.5;1" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M100 100L105 100" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="stroke-width" values="1;1.5;1" dur="3s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- AI Ethics Committee Member -->
+  <circle cx="80" cy="170" r="12" fill="#0E7490" opacity="0.7"/>
+  <path d="M70 195C70 185 75 180 80 180C85 180 90 185 90 195" stroke="#0E7490" stroke-width="2"/>
+  <!-- Traditional Indian clothing element -->
+  <path d="M75 170L85 170" stroke="#0E7490" stroke-width="1.5"/>
+  <path d="M75 170C75 165 85 165 85 170" stroke="#0E7490" stroke-width="1"/>
+  <!-- Tablet with ethics guidelines -->
+  <rect x="75" y="185" width="10" height="8" rx="1" fill="#0E7490" opacity="0.6"/>
+  <rect x="76" y="186" width="8" height="6" fill="#F8F9FA"/>
+  <path d="M78 189L82 189" stroke="#0E7490" stroke-width="0.5">
+    <animate attributeName="stroke-width" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Robot/AI developer with ethical guidelines -->
+  <rect x="260" y="85" width="30" height="30" rx="5" fill="#0E7490" opacity="0.7"/>
+  <rect x="270" y="115" width="10" height="15" fill="#0E7490" opacity="0.7"/>
+  <rect x="260" y="130" width="30" height="5" rx="2" fill="#0E7490" opacity="0.7"/>
+  <!-- Code/ethics guidelines -->
+  <rect x="265" y="70" width="20" height="15" fill="#F8F9FA" opacity="0.8"/>
+  <path d="M270 75L280 75" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="stroke-width" values="1;1.5;1" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M270 80L280 80" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="stroke-width" values="1;1.5;1" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- AI Governance Expert -->
+  <circle cx="320" cy="170" r="12" fill="#0E7490" opacity="0.7"/>
+  <path d="M310 195C310 185 315 180 320 180C325 180 330 185 330 195" stroke="#0E7490" stroke-width="2"/>
+  <!-- Traditional Indian clothing element -->
+  <path d="M315 170L325 170" stroke="#0E7490" stroke-width="1.5"/>
+  <path d="M315 170C315 165 325 165 325 170" stroke="#0E7490" stroke-width="1"/>
+  <!-- Digital governance document -->
+  <rect x="315" y="185" width="10" height="8" rx="1" fill="#0E7490" opacity="0.6"/>
+  <rect x="316" y="186" width="8" height="6" fill="#F8F9FA"/>
+  <path d="M318 189L322 189" stroke="#0E7490" stroke-width="0.5">
+    <animate attributeName="stroke-width" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Connection between human and AI with ethical oversight and animation -->
+  <path d="M140 100H260" stroke="#06B6D4" stroke-width="2" stroke-dasharray="5 5">
+    <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="200" cy="100" r="10" fill="#0E7490" opacity="0.2" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="r" values="10;12;10" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M195 100L200 105L205 95" stroke="#06B6D4" stroke-width="1.5">
+    <animate attributeName="stroke-width" values="1.5;2;1.5" dur="2s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Data flow animations -->
+  <circle cx="160" cy="100" r="2" fill="#06B6D4" opacity="0.8">
+    <animate attributeName="cx" values="140;260;140" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="240" cy="100" r="2" fill="#06B6D4" opacity="0.8">
+    <animate attributeName="cx" values="260;140;260" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Binary code background with animation -->
+  <text x="50" y="50" fill="#0E7490" opacity="0.3" font-family="monospace" font-size="10">10110101
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="50" y="65" fill="#0E7490" opacity="0.3" font-family="monospace" font-size="10">01001010
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="4s" repeatCount="indefinite"/>
+  </text>
+  
+  <text x="300" y="200" fill="#0E7490" opacity="0.3" font-family="monospace" font-size="10">10110101
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="300" y="215" fill="#0E7490" opacity="0.3" font-family="monospace" font-size="10">01001010
+    <animate attributeName="opacity" values="0.3;0.5;0.3" dur="5s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Ethics symbols with animation -->
+  <circle cx="80" cy="230" r="20" stroke="#0E7490" stroke-width="2" fill="none">
+    <animate attributeName="stroke-width" values="2;2.5;2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M70 230L80 240L90 220" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-width" values="2;2.5;2" dur="2.5s" repeatCount="indefinite"/>
+  </path>
+  
+  <circle cx="320" cy="230" r="20" stroke="#0E7490" stroke-width="2" fill="none">
+    <animate attributeName="stroke-width" values="2;2.5;2" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M310 230L320 240L330 220" stroke="#06B6D4" stroke-width="2">
+    <animate attributeName="stroke-width" values="2;2.5;2" dur="3s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Balance scale for ethical decisions with animation -->
+  <line x1="200" y1="40" x2="200" y2="60" stroke="#0E7490" stroke-width="2">
+    <animate attributeName="stroke-width" values="2;2.5;2" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <path d="M185 45H215" stroke="#0E7490" stroke-width="2">
+    <animate attributeName="stroke-width" values="2;2.5;2" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="185" cy="55" r="5" fill="#0E7490" opacity="0.5" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="cy" values="55;53;55" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="215" cy="55" r="5" fill="#0E7490" opacity="0.5" stroke="#0E7490" stroke-width="1">
+    <animate attributeName="cy" values="55;57;55" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="185" y1="45" x2="185" y2="55" stroke="#0E7490" stroke-width="1" stroke-dasharray="2 1">
+    <animate attributeName="y2" values="55;53;55" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="215" y1="45" x2="215" y2="55" stroke="#0E7490" stroke-width="1" stroke-dasharray="2 1">
+    <animate attributeName="y2" values="55;57;55" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Text in Hindi (Ethical AI) -->
+  <text x="50" y="30" fill="#0E7490" opacity="0.5" font-family="Arial" font-size="8">नैतिक एआई</text>
+  <text x="320" y="30" fill="#0E7490" opacity="0.5" font-family="Arial" font-size="8">भारत</text>
+  
+  <!-- Traditional Indian pattern elements -->
+  <path d="M50 270C55 265 60 270 65 265C70 270 75 265 80 270" stroke="#0E7490" stroke-width="1" opacity="0.5"/>
+  <path d="M320 270C325 265 330 270 335 265C340 270 345 265 350 270" stroke="#0E7490" stroke-width="1" opacity="0.5"/>
+</svg> 
